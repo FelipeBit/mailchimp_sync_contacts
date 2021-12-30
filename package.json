@@ -9,8 +9,6 @@
     "start": "ts-node-dev -r tsconfig-paths/register src/application/server.ts",
     "test": "jest",
     "lint": "eslint --fix",
-    "pre-commit": "npm run lint && npm run test",
-    "prepare": "cd .. && husky install"
   },
   "keywords": [],
   "author": "",
