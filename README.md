@@ -1,3 +1,5 @@
 # mailchimp_sync_contacts
 
-Temporary read me
+Rest API made with: Node + Express + TS <3
+
+https://quiet-hollows-85535.herokuapp.com/contacts/sync
